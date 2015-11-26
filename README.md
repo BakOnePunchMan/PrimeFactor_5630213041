@@ -7,6 +7,7 @@
                  dosomething
              } else
                  dosomething;
+
 มีปีกกา บ้างไม่มีบ้าง 
 
 source code นี้ compile ได้ด้วย?
