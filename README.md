@@ -3,6 +3,7 @@
 รอสรุป
 
 ควรระวังเรื่อง coding standard
+
              if(checkSomething) {
                  dosomething
              } else
